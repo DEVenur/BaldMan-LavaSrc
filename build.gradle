@@ -88,7 +88,7 @@ subprojects {
     }
 
     dependencies {
-        // Dependência para o BaldMan-LavaSrc, usando commit c663a4a378
-        implementation 'com.github.DEVenur:BaldMan-LavaSrc:c663a4a378'
+        // Dependência para o BaldMan-LavaSrc, usando commit 8eb1d98df3
+        implementation 'com.github.DEVenur:BaldMan-LavaSrc:8eb1d98df3'
     }
 }
